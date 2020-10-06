@@ -6,7 +6,7 @@
   
   
 ## Description
-  This Module was designed to present the most essential or basic IPv4 and MAC address information to a user. The imformation provided is as follows;
+  This Module was designed to present the most essential or basic IPv4 and MAC address information to a user. The information provided is as follows;
   - InterfaceIndex
   - InterfaceAlias
   - MacAddress
